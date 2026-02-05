@@ -149,8 +149,8 @@
         <div class="projet-card">
             <img src="./images/photoshop.webp" alt="photoshop1">
             <h2><span>Projet 5</span></h2>
-            <p>Dans le cadre de mes cours de production graphique j'avais pour consigne de concevoir une affiche et un post Instagram afin d’annoncer la sortie d’un nouveau produit ou l’ouverture d’un nouveau point de vente, réel ou fictif.</p>
-            <a href="https://www.linkedin.com/posts/filytoure_photoshop-designgraphique-projetaeztudiant-activity-7327988034040119297-2D4M?utm_source=share&utm_medium=member_desktop&rcm=ACoAAENKO2oBI-NUwZ8nRzvH_x4ym0Fmer3Z31A" class="btn-projet" target="_blank" rel="noopener noreferrer">Voir le projet</a>
+            <p>Conception d’un flyer au format story Instagram pour promouvoir une partie de la carte du restaurant. Design réalisé sur Photoshop avec un travail sur la hiérarchie visuelle, les couleurs et l’impact mobile.</p>
+            <a href="./autres/design-story.pdf" class="btn-projet" target="_blank" rel="noopener noreferrer">Voir le projet</a>
         </div>
 
 
