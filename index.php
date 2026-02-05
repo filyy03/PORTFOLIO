@@ -31,7 +31,7 @@
 </nav>
 
 <section id="accueil">
-    <img src="./images/pp.webp" alt="photo de profil">  
+    <img src="./images/photo-profil.webp" alt="photo de profil">  
 
     <div class="info-box">
         <h1>Bonjour, je suis<span> Fily !</span></h1>
@@ -40,7 +40,7 @@
     </div>
 
     <div class="btn-box">
-        <a href="./autres/CV_Fily_TOURE.pdf" download class="btn">Télécharger mon CV</a>
+        <a href="./autres/CV_FILY_TOURE.pdf" download class="btn">Télécharger mon CV</a>
         <a href="#contact" class="btn">Contactez-moi</a>
     </div>
 </section>
@@ -121,10 +121,14 @@
         </div>
 
         <div class="projet-card">
-            <img src="./images/attente.webp" alt="refonte">
+            <img src="./images/refonte.webp" alt="refonte">
             <h2><span>Projet 2</span></h2>
             <p>Maquette d’une refonte d'un site avec design moderne et ergonomique. J’ai travaillé sur la structure, l’ergonomie, et l’intégration des contenus tout en améliorant l’expérience utilisateur.</p>
-            <a href="" class="btn-projet" target="_blank" rel="noopener noreferrer">Voir le projet</a>
+
+            <div class="btn-refonte">
+            <a href="https://www.story-developpement.com" class="btn-projet" target="_blank" rel="noopener noreferrer">Avant</a>
+            <a href="https://www.figma.com/proto/yKvZabumBHFXEjhpEyrrH4/Refonte-story-developpement?node-id=9-236&t=zO3NaUK1VdWC20qm-1" class="btn-projet" target="_blank" rel="noopener noreferrer">Après</a>
+            </div>
         </div>
             
         <div class="projet-card">
@@ -135,11 +139,11 @@
         </div>
 
         <div class="projet-card">
-            <img src="./autres/gestion_projet.pdf" alt="gestion-de-projet">
+            <img src="./images/gestion_projet.webp" alt="gestion-de-projet">
             <h2><span>Projet 4</span></h2>
             <p>Cas pratique initié par moi-même, présentant Maraud’App comme solution à une problématique. Planification, conception, tests et évaluation de la solution. Illustratif de mes compétences en gestion de projet.
             </p>
-            <a href="" class="btn-projet" target="_blank" rel="noopener noreferrer">Voir le projet</a>
+            <a href="./autres/gestion_projet.pdf" class="btn-projet" target="_blank" rel="noopener noreferrer">Voir le projet</a>
         </div>
 
         <div class="projet-card">
@@ -168,6 +172,13 @@
         <div class="projet-card">
             <img src="./images/attente.webp" alt="audiovisuel">
             <h2><span>Projet 8</span></h2>
+            <p>Rien ici pour le moment… mais un projet intéressant viendra bientôt compléter cette carte.</p>
+            <a href="" class="btn-projet" target="_blank" rel="noopener noreferrer">Voir le projet</a>
+        </div>
+
+         <div class="projet-card">
+            <img src="./images/attente.webp" alt="audiovisuel">
+            <h2><span>Projet 9</span></h2>
             <p>Rien ici pour le moment… mais un projet intéressant viendra bientôt compléter cette carte.</p>
             <a href="" class="btn-projet" target="_blank" rel="noopener noreferrer">Voir le projet</a>
         </div>

@@ -424,6 +424,12 @@ section {
     line-height: 1.6;
 }
 
+.btn-refonte{
+    display: flex;
+    justify-content: center; /* centre les boutons horizontalement */
+    gap: 30px; /* espace entre les boutons */
+}
+
 /* Section Contact */
 #contact {
     background-color: var(--second-background);
