@@ -53,9 +53,9 @@
 
         <div class="apropos-info">
             <h1><span>À propos de moi</span></h1>
-            <p>Je suis une passionnée de création sous toutes ses formes, mêlant technologie et artisanat. Étudiante en BUT Métiers du Multimédia et de l’Internet à l’IUT de Cergy-Pontoise, je me spécialise en développement web, où je développe mes compétences techniques avec sérieux.</p>
-            <p>Mais mon univers ne s’arrête pas au numérique : j’aime aussi m’exprimer à travers la couture, en créant mes propres pièces et accessoires faits main. Cette pratique nourrit mon sens du détail, de la précision et de l’esthétique, des qualités que j’intègre également dans mes projets digitaux.</p>
-            <p>Mon ambition est de lier un jour ces deux univers pour créer des expériences innovantes, mêlant savoir-faire artisanal et technologies web. Ce portfolio est un moyen de vous faire découvrir mon univers, mes projets et mes ambitions, où chaque pixel et chaque création racontent une histoire.</p>
+            <p>Je suis étudiante en BUT Métiers du Multimédia et de l’Internet, où je développe mes compétences en communication, création graphique, audiovisuel et développement web. J’aime explorer différents domaines et donner vie à des projets variés, avec sérieux et créativité.</p>
+            <p>En dehors de mes études, je suis passionnée par la couture et le design, où je conçois et réalise mes propres pièces et accessoires, ainsi que par le maquillage, que je pratique pour le plaisir et l’expression artistique. Ces passions nourrissent mon sens du détail et de l’esthétique, que j’applique également dans mes projets numériques.</p>
+            <p>Ce portfolio reflète mon univers étudiant et professionnel, tout en laissant transparaître mes intérêts personnels et ma curiosité créative.</p>
         </div>
 
 
