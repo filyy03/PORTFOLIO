@@ -31,7 +31,6 @@
 </nav>
 
 <section id="accueil">
-    <img src="./images/photo-profil.webp" alt="photo de profil">  
 
     <div class="info-box">
         <h1>Bonjour, je suis<span> Fily !</span></h1>
