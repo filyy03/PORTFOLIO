@@ -169,10 +169,10 @@
         </div>
 
         <div class="projet-card">
-            <img src="./images/attente.webp" alt="audiovisuel">
+            <img src="./images/klynt.webp" alt="audiovisuel">
             <h2><span>Projet 8</span></h2>
-            <p>Rien ici pour le moment… mais un projet intéressant viendra bientôt compléter cette carte.</p>
-            <a href="" class="btn-projet" target="_blank" rel="noopener noreferrer">Voir le projet</a>
+            <p>Webdocumentaire interactif sur le quotidien et le parcours d’un développeur full stack en alternance, conçu et monté entièrement par mes soins.</p>
+            <a href="https://tfy.alwaysdata.net/webdocumentaire/index.html" class="btn-projet" target="_blank" rel="noopener noreferrer">Voir le projet</a>
         </div>
 
          <div class="projet-card">
