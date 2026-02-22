@@ -161,18 +161,18 @@
             <a href="images/sabaidi.mp4" alt="video promotionnelle" class="btn-projet" target="_blank" rel="noopener noreferrer">Voir le projet</a>
         </div>
 
-        <div class="projet-card">
-            <img src="./images/butmmi.webp" alt="butmmi">
+         <div class="projet-card">
+            <img src="./images/klynt.webp" alt="audiovisuel">
             <h2><span>Projet 7</span></h2>
-            <p>Ensemble de travaux académiques réalisés dans le cadre des SAÉ : audits, gestion de projet, analyses et productions créatives…</p>
-            <a href="https://drive.google.com/drive/folders/1RN7m7xOIIJ1sMuEbwADIB06TcxlPvyF9?usp=share_link" class="btn-projet" target="_blank" rel="noopener noreferrer">Voir le projet</a>
+            <p>Webdocumentaire interactif sur le quotidien et le parcours d’un développeur full stack en alternance, conçu et monté entièrement par mes soins.</p>
+            <a href="https://tfy.alwaysdata.net/webdocumentaire/index.html" class="btn-projet" target="_blank" rel="noopener noreferrer">Voir le projet</a>
         </div>
 
         <div class="projet-card">
-            <img src="./images/klynt.webp" alt="audiovisuel">
+            <img src="./images/butmmi.webp" alt="butmmi">
             <h2><span>Projet 8</span></h2>
-            <p>Webdocumentaire interactif sur le quotidien et le parcours d’un développeur full stack en alternance, conçu et monté entièrement par mes soins.</p>
-            <a href="https://tfy.alwaysdata.net/webdocumentaire/index.html" class="btn-projet" target="_blank" rel="noopener noreferrer">Voir le projet</a>
+            <p>Ensemble de travaux académiques réalisés dans le cadre des SAÉ : audits, gestion de projet, analyses et productions créatives…</p>
+            <a href="https://drive.google.com/drive/folders/1RN7m7xOIIJ1sMuEbwADIB06TcxlPvyF9?usp=share_link" class="btn-projet" target="_blank" rel="noopener noreferrer">Voir le projet</a>
         </div>
 
          <div class="projet-card">

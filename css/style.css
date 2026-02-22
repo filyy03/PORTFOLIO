@@ -407,8 +407,8 @@ section {
 
 .projet-card img {
     width: 100%;         /* prend toute la largeur du conteneur */
-    max-width: 250px;    /* largeur maximale = 250px */
-    height: 150px;       /* hauteur fixe pour toutes les images */
+    max-width: 240px;    /* largeur maximale = 250px */
+    height: 140px;       /* hauteur fixe pour toutes les images */
     object-fit: fill;    /* force l'image à remplir exactement le cadre */
     display: block;
     border-radius: 1rem;
