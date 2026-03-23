@@ -1,17 +1,5 @@
 /* Importation de la police */
-@font-face {
-    font-family: 'Poppins';
-    src: url('../font/Poppins-Regular.ttf') format('truetype');
-    font-weight: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Poppins';
-    src: url('../font/Poppins-Bold.ttf') format('truetype');
-    font-weight: bold;
-    font-display: swap;
-}
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@300;400;500;600;800&display=swap');
 
 /* Reset CSS pour un rendu uniforme sur tous les navigateurs */
 * {
@@ -21,16 +9,16 @@
     text-decoration: none;
     list-style: none;
     scroll-behavior: smooth;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Jost', sans-serif;
 }
 
 /* Paramétrage des variables pour couleurs */
 :root {
-    --background: rgb(221, 224, 245);
-    --second-background: rgb(5, 10, 49);
-    --gradient: linear-gradient(to right, #ff4f81, #8e54e9);
-    --shadow-purple: #8e54e9;
-    --shadow-pink: #ea4fff;
+    --background: #F4EFE6;
+    --second-background: #5c4f43;
+    --gradient: #d7b99c;
+    --shadow-purple: #a79380;
+    --shadow-pink: #cfb18c;
     --white: #ffffff;
     --transition-fast: 0.2s ease-in-out;
     --transition-normal: 0.3s ease-in-out;
@@ -143,7 +131,7 @@ nav ul a:hover {
 
 /* Texte gradient */
 span {
-    background: var(--gradient);
+    background: #af967f;
     background-clip: text;
     -webkit-background-clip: text;
     color: transparent;
@@ -181,7 +169,7 @@ section {
     max-height: 400px;
     object-fit: cover;
     border-radius: 50%;
-    margin-top: 3rem;
+    margin-top:7rem;
     box-shadow: 0 0 25px var(--shadow-pink);
     cursor: pointer;
     transition: var(--transition-slow);
@@ -208,20 +196,19 @@ section {
 .info-box h1 {
     font-size: clamp(2rem, 6vw, 4rem);
     font-weight: 600;
-    margin-top: 6rem;
+    margin-top: 2rem;
     margin-bottom: 1.6rem;
     overflow: hidden;
     border-right: 0.15rem solid var(--second-background);
     white-space: nowrap;
     width: 0;
     box-sizing: content-box;
-    padding-right: 1rem;
-    animation: typing 3s steps(23, end) forwards, blink 0.75s step-end infinite;
-}
+    padding-right: 0;
+    animation: typing 1.5s steps(15, end) forwards, blink 0.75s step-end infinite;}
 
 @keyframes typing {
     from { width: 0; }
-    to { width: 23ch; }
+    to { width: 15ch; }
 }
 
 @keyframes blink {
@@ -240,7 +227,7 @@ section {
 }
 
 .info-box h3 {
-    font-size: clamp(1.2rem, 4vw, 2rem);
+    font-size: clamp(1.2rem, 3.5vw, 1.8rem);
     font-weight: 400;
     margin-bottom: 1rem;
 }
@@ -249,6 +236,8 @@ section {
     margin-top: 10px;
     line-height: 1.6;
     font-weight: 300;
+    font-size: clamp(1rem, 1.5vw, 1.1rem);
+
 }
 
 .info-box p span{
@@ -310,6 +299,7 @@ section {
     text-align: justify;
     max-width: 1000px;
     line-height: 1.7;
+    font-size: clamp(1rem, 1.5vw, 1.1rem);
 }
 
 .apropos-info p {
@@ -406,10 +396,10 @@ section {
 }
 
 .projet-card img {
-    width: 100%;         /* prend toute la largeur du conteneur */
-    max-width: 240px;    /* largeur maximale = 250px */
-    height: 140px;       /* hauteur fixe pour toutes les images */
-    object-fit: fill;    /* force l'image à remplir exactement le cadre */
+    width: 100%;
+    max-width: 240px;
+    height: 140px;
+    object-fit: fill;
     display: block;
     border-radius: 1rem;
 }
@@ -426,8 +416,8 @@ section {
 
 .btn-refonte{
     display: flex;
-    justify-content: center; /* centre les boutons horizontalement */
-    gap: 30px; /* espace entre les boutons */
+    justify-content: center;
+    gap: 30px;
 }
 
 /* Section Contact */
@@ -466,7 +456,7 @@ textarea {
     border: none;
     outline: none;
     width: 100%;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Jost', sans-serif;
 }
 
 textarea {
@@ -478,8 +468,8 @@ textarea {
 /* Conteneur des messages */
 .message-container {
     display: flex;
-    justify-content: center; /* centré horizontalement */
-    margin-bottom: 2rem;     /* espace avant le formulaire */
+    justify-content: center;
+    margin-bottom: 2rem;
 }
 
 /* Messages */
@@ -508,10 +498,9 @@ textarea {
     border: 1px solid #f5c6cb;
 }
 
-
 /* Footer */
 #footer {
-    background-color: rgba(5, 10, 49, 0.877);
+    background-color: #413833;
     backdrop-filter: blur(10px);
     color: var(--white);
     text-align: center;
@@ -563,7 +552,7 @@ textarea {
 
 .social-icons a:hover {
     opacity: 1;
-    color: #ff4f81;
+    color: #C8A882;
     transform: scale(1.2);
 }
 
@@ -627,7 +616,7 @@ textarea {
         position: absolute;
         top: 100%;
         right: 5%;
-        background-color: rgba(5, 10, 49, 0.95);
+        background-color: rgba(94, 80, 68, 0.95);
         border-radius: 1rem;
         padding: 2rem;
         gap: 1.5rem;

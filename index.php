@@ -30,7 +30,11 @@
     <a href="#contact" class="btn-nav">Contactez-moi</a>  
 </nav>
 
+
 <section id="accueil">
+
+    <img src="./images/photo-profil.webp" alt="photo de profil">  
+
 
     <div class="info-box">
         <h1>Bonjour, je suis<span> Fily !</span></h1>
@@ -131,7 +135,7 @@
         </div>
             
         <div class="projet-card">
-            <img src="./images/attente.webp" alt="wordpress">
+            <img src="./images/attente-beige.webp" alt="wordpress">
             <h2><span>Projet 3</span></h2>
             <p>Création d’un site vitrine pour une pâtissière sur WordPress. J’ai conçu la structure des pages, le design et intégré le contenu pour refléter l’identité visuelle de la marque.</p>
             <a href="" class="btn-projet" target="_blank" rel="noopener noreferrer">Voir le projet</a>
@@ -146,7 +150,7 @@
         </div>
 
         <div class="projet-card">
-            <img src="./images/photoshop.webp" alt="photoshop1">
+            <img src="./images/sabaidi.webp" alt="photoshop1">
             <h2><span>Projet 5</span></h2>
             <p>Conception d’un flyer au format story Instagram pour promouvoir une partie de la carte du restaurant. Design réalisé sur Photoshop avec un travail sur la hiérarchie visuelle, les couleurs et l’impact mobile.</p>
             <a href="./autres/design-story.pdf" class="btn-projet" target="_blank" rel="noopener noreferrer">Voir le projet</a>
@@ -176,7 +180,7 @@
         </div>
 
          <div class="projet-card">
-            <img src="./images/attente.webp" alt="audiovisuel">
+            <img src="./images/attente-beige.webp" alt="audiovisuel">
             <h2><span>Projet 9</span></h2>
             <p>Rien ici pour le moment… mais un projet intéressant viendra bientôt compléter cette carte.</p>
             <a href="" class="btn-projet" target="_blank" rel="noopener noreferrer">Voir le projet</a>
